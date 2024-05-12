@@ -1,0 +1,9 @@
+###
+POST http://localhost:3000/products
+content-type: application/json
+
+{
+  "name": "Saitama Mangá",
+  "price": "R$50",
+  "password": "12345678"
+}
